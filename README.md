@@ -1,7 +1,7 @@
 [![tests](https://github.com/VirusTotal/yara-x/actions/workflows/tests.yaml/badge.svg)](https://github.com/VirusTotal/yara-x/actions/workflows/tests.yaml)
 [![coverage](https://codecov.io/gh/VirusTotal/yara-x/branch/main/graph/badge.svg?token=dPsruCiDqN)](https://app.codecov.io/gh/VirusTotal/yara-x)
 [![Crates.io](https://img.shields.io/crates/v/yara-x.svg)](https://crates.io/crates/yara-x)
-![Crates.io MSRV](https://img.shields.io/crates/msrv/yara-x) kkk
+![Crates.io MSRV](https://img.shields.io/crates/msrv/yara-x)  jhekkk
 
 ## YARA-X
 
